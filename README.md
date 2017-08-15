@@ -11,3 +11,5 @@ mkdir dev-mission && cd dev-mission && git init && mygit && git create && echo "
 ```
 git add --all && git commit -m "Pushed some code" && git push origin master && git browse
 ```
+
+## Styling and scripts from [Semantic UI](https://semantic-ui.com)
